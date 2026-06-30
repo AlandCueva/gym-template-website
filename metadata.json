@@ -1,0 +1,6 @@
+{
+  "name": "Titanus Gym",
+  "description": "El templo de entrenamiento de rendimiento extremo en Loja, Ecuador. Estética industrial-futurista de alta energía y disciplina implacable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
